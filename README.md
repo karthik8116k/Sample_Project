@@ -1,3 +1,3 @@
 # Sample_Project
 
-![Uploading bappa2.jpg…]()
+![Uploading "C:\Users\Karthik Sagar\Pictures\bappa2.jpg".]()
